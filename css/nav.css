@@ -32,9 +32,14 @@ a.underline:hover::before {
 	border: none !important;
 }
 
-/*.navbar-nav .nav-link*/ .navbar {
+.navbar-nav .nav-link {
   padding-right: 16 !important;
   padding-left: 14 !important;
+}
+
+.navbar {
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 a.dropdown-item:hover {
