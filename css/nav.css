@@ -42,6 +42,12 @@ a.underline:hover::before {
   padding-left: 0px !important;
 }
 
+.navbar {
+  padding-top: 30px;
+  background-color: hsla(0, 0%, 86.7%, 0);
+  color: rgba(51, 51, 51, 0);
+}
+
 a.dropdown-item:hover {
   background-color: transparent; !important;
   color: purple;
