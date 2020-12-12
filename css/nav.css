@@ -32,7 +32,7 @@ a.underline:hover::before {
 	border: none !important;
 }
 
-.navbar-nav .nav-link {
+/*.navbar-nav .nav-link*/ .navbar {
   padding-right: 16 !important;
   padding-left: 14 !important;
 }
